@@ -24,10 +24,10 @@ img to image 图生图</br>
 ![Image description](How2GetYourAPIToken.png)
 
 ## IS SAFE? / 安全性?
-The software saves all settings (including the recorded API) locally in %appdata%, and the API used is the official API.</br>
+This APP saves all settings (including the recorded API) locally in %appdata%, and the API used is the official API.</br>
 软件所有设置(包括记录的API)均保存在本地 (%appdata%) 中，且使用的API为官方API。
 
-## Why write this program? / 为何编写?
+## Why write this APP? / 为何编写?
 Because I often forget to save images / 因为我经常忘记保存图片。
 
 ## API Docs
