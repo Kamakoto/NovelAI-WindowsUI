@@ -12,8 +12,8 @@ Run NovelAI WindowsUI.exe  / 直接运行 NovelAI WindowsUI.exe 即可
 
 ## Support / 支持
 text to image 文生图</br>
-批量生成图片</br>
-自动保存图片</br>
+atch image generation 批量生成图片</br>
+Automatic image saving 自动保存图片</br>
 
 ## Not Support / 不支持
 inpaint 重绘</br>
